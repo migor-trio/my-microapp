@@ -1,4 +1,4 @@
 {
   "name": "migor-app",
-  "entryComponent": "./src\\app\\page.tsx"
+  "entryComponent": "./src/app/page.tsx"
 }
